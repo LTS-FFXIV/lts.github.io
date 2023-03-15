@@ -1,0 +1,11 @@
+{
+  "Name": "AutoBenny",
+  "InternalName": "AutoBenny",
+  "Author": "LTS-FFXIV",
+  "Version": "1.0.0",
+  "Description": "Automatically casts Benediction on party members below a certain health threshold.",
+  "RepoUrl": "https://github.com/LTS-FFXIV/AutoBenny",
+  "DownloadLinkInstall": "https://github.com/LTS-FFXIV/AutoBenny/releases/download/1.0.0/AutoBenny.dll",
+  "DownloadLinkUpdate": "https://github.com/LTS-FFXIV/AutoBenny/releases/download/1.0.0/AutoBenny.dll",
+  "AssemblyVersion": "1.0.0.0"
+}
